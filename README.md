@@ -1,3 +1,2 @@
 # metamatch
-something's brewing ,
-i can feel it
+machine learning for music
